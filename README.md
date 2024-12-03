@@ -43,7 +43,7 @@ Just a curious mind who loves building stuff and solving problems
 
 ## Github Stats
 <p style="display:flex; align=center; justify-content:center; ">
-<img src="https://github-readme-stats.vercel.app/api?username=Nitish-Bakshi&theme=midnight-purple" style="margin-right:4px;">
+<img src="https://github-readme-stats.vercel.app/api?username=Nitish-Bakshi-1&theme=midnight-purple" style="margin-right:4px;">
 <!-- <img src="https://streak-stats.demolab.com/?user=parassareen4&theme=holi-theme"> -->
 </p>
 
