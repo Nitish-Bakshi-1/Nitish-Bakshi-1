@@ -33,7 +33,7 @@ Just a curious mind who loves building stuff and solving problems
 	<td><strong>Tools</strong></td>
 </tr>
 <tr>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,netlify,socket.io&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim,netlify&theme=dark"></td>
  	<td><img src = "https://skillicons.dev/icons?i=linux,ubuntu,arch&theme=dark"></td>
 </tr>
 </table>
