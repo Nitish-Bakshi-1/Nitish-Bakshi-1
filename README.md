@@ -4,7 +4,7 @@
 ### <div align="center">I'm Nitish</div>  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+
   
 
 - ⚡ Fun fact: I use tabs over spaces  
