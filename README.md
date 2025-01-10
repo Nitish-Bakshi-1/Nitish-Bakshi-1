@@ -1,7 +1,7 @@
  
   
 
-### <div align="center" font-size="100px">I'm Nitish</div>  
+### <div align="center" >I'm Nitish</div>  
   
 
 
