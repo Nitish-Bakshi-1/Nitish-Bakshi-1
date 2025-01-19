@@ -1,7 +1,7 @@
  
   
 
-### <h1 align="center" text-decoration="underline" >I'm Nitish</h1>  
+### <h1 align="center">I'm Nitish</h1>  
   
 
 
