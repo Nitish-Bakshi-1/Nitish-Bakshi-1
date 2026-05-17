@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,2C5282&height=180&section=header&text=Nitish%20Bakshi&fontSize=48&fontColor=ffffff&fontAlignY=60&desc=Full-Stack%20Developer&descAlignY=78&descSize=16&descColor=BEE3F8" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,2C5282&height=200&section=header&text=Nitish%20Bakshi&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=I%20build%20things%20for%20the%20web&descAlignY=72&descSize=18&descColor=BEE3F8" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish-bakshi)
