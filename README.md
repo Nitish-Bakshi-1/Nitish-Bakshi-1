@@ -1,162 +1,90 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C5282&height=120&section=header&text=Nitish%20Bakshi&fontSize=42&fontColor=ffffff&fontAlignY=65&desc=Full-Stack%20Web%20Developer&descAlignY=85&descSize=16&descColor=BEE3F8" />
-</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,2C5282,203a43&height=200&section=header&text=Nitish%20Bakshi&fontSize=50&fontColor=ffffff&fontAlignY=55&desc=I%20build%20things%20for%20the%20web&descAlignY=75&descSize=18&descColor=BEE3F8" />
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+> *Turning ideas into fast, clean, and shippable products.*
+> *Agency · Freelance · MERN · WordPress · Shopify*
 
-### About
+<br/>
 
-Full-stack developer with hands-on experience across the complete product lifecycle — from designing interfaces in Figma to deploying production-grade applications. Currently building client products at **Brandquake**, and taking on freelance work since 2023.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish-bakshi)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishbakshi05@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitishbakshi001)
 
-- 🎓 &nbsp;BCA — Guru Nanak Dev University *(2023–2026)*
-- 📍 &nbsp;Amritsar, Punjab, India
-- 📬 &nbsp;nitishbakshi05@gmail.com
+</div>
 
-</td>
-<td width="45%" valign="top">
+---
 
-### Currently
-
-```text
-Company  →  Brandquake
-Role     →  Web Developer & Designer
-Focus    →  WordPress · Shopify · React
-Since    →  January 2026
+```js
+const nitish = {
+  location : "Amritsar, Punjab 🇮🇳",
+  currently : "Web Developer & Designer @ Brandquake",
+  building  : ["client websites", "freelance MERN apps", "real-time features"],
+  studying  : "BCA — Guru Nanak Dev University (2023–2026)",
+  reach_me  : "nitishbakshi05@gmail.com",
+  tabs      : true  // always
+};
 ```
 
-</td>
-</tr>
-</table>
+---
+
+## What I work with
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=3C873A)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=for-the-badge&logo=express&logoColor=white)
+
+![WordPress](https://img.shields.io/badge/WordPress-1a1a1a?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Shopify](https://img.shields.io/badge/Shopify-1a1a1a?style=for-the-badge&logo=shopify&logoColor=96BF48)
+![GraphQL](https://img.shields.io/badge/GraphQL-1a1a1a?style=for-the-badge&logo=graphql&logoColor=E10098)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=336791)
+![Socket.io](https://img.shields.io/badge/Socket.io-1a1a1a?style=for-the-badge&logo=socket.io&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a1a?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+![Sass](https://img.shields.io/badge/Sass-1a1a1a?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
 
 ---
 
-## Experience
+## What I've shipped
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+> 🏢 &nbsp;**Brandquake** — Web Developer & Designer &nbsp;`Jan 2026 → Now`
+>
+> Leading front-end and CMS builds for agency clients. Translating briefs into polished, performant sites on WordPress and Shopify. Owning the full design-to-deployment pipeline.
 
-**Web Developer & Designer**
-`Brandquake` &nbsp;·&nbsp; Jan 2026 – Present
+<br/>
 
-- Lead development of client-facing websites
-- Build & maintain WordPress and Shopify sites
-- UI/UX design using Figma and Canva
-- Stakeholder communication and delivery
+> 🛠️ &nbsp;**Freelance** — MERN Stack Developer &nbsp;`2023 → Now`
+>
+> Building full-stack products independently — REST APIs, real-time Socket.io apps, database design, and cloud deployments. End-to-end ownership from day one.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
-**Web Development Intern**
-`Brandquake` &nbsp;·&nbsp; Jul – Dec 2025
-
-- Built production websites with WordPress & Shopify
-- Worked with HTML, CSS, and GraphQL
-- UI/UX improvements and layout optimisation
-- Version control and modern web workflows
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Freelance Web Developer**
-`Independent` &nbsp;·&nbsp; 2023 – Present
-
-- Full-stack apps with the MERN stack
-- REST API architecture and third-party integrations
-- Real-time features via Socket.io
-- End-to-end deployment and maintenance
-
-</td>
-<td width="50%" valign="top">
-
-**Web Development Intern**
-`4-Way Dial, Amritsar` &nbsp;·&nbsp; Jan – Jun 2025
-
-- Modular React component development
-- Backend services in the MERN ecosystem
-- Application architecture and UI design
-
-</td>
-</tr>
-</table>
-
----
-
-## Tech Stack
-
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
-
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5 / CSS3
-- Tailwind CSS
-- Sass
-
-</td>
-<td width="25%" valign="top">
-
-**Backend**
-- Node.js
-- Express.js
-- MongoDB
-- PostgreSQL
-- REST API
-- GraphQL · Socket.io
-
-</td>
-<td width="25%" valign="top">
-
-**CMS & Commerce**
-- WordPress
-- Shopify
-
-**Design**
-- Figma
-- Canva
-
-</td>
-<td width="25%" valign="top">
-
-**Tooling**
-- Git & GitHub
-- Linux / Bash
-- CI/CD & Hosting
-- Agile workflow
-
-</td>
-</tr>
-</table>
-
----
-
-## Certifications
-
-| Credential | Issuer | Year |
-|---|---|---|
-| Full Stack Web Developer | 100xDevs Bootcamp | 2023–2024 |
-| Bachelor of Computer Applications *(in progress)* | Guru Nanak Dev University | 2023–2026 |
+> 🎓 &nbsp;**100xDevs Bootcamp** — Full Stack Certification &nbsp;`2023–2024`
+>
+> Intensive full-stack training covering the complete MERN ecosystem, system design fundamentals, and production deployment practices.
 
 ---
 
 <div align="center">
 
+*Open to interesting projects and collaborations*
+**↓ Let's connect ↓**
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nitish-bakshi)
-[![Email](https://img.shields.io/badge/Email-2C5282?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishbakshi05@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitish-Bakshi-1)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitishbakshi001)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitishbakshi05@gmail.com)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=2C5282&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,2C5282,203a43&height=100&section=footer" />
 
 </div>
